@@ -160,6 +160,3 @@ $~$
 
 <p align="right">Note: The site is not responsive yet, but it will be responsive soon.</p>
 
-<p align="right" >
-    <img height="40px" width="40px" src="Pages/Assets\RS LOGO.png" />
-</p>
