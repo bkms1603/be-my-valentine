@@ -138,25 +138,3 @@ $~$
 
 $~$
 
-### :people_holding_hands: Meet the Author
-
-<img  src="Pages/Assets/author.jpg" alt="Author">
-
-
-### :email: Contact 
-- Email and social media links.
-- Head over to my github handle form [here](https://github.com/RS-labhub)
-
-<p align="left">
-<a href="https://twitter.com/rrs00179" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="rrs00179" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohan-sharma-9386rs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohan-sharma=9386" /></a>
-</p>
-
-<p align="center">
-    People who <a href="https://github.com/RS-labhub/I-Love-You/stargazers">STARRED</a> this repo
-</p>
-
-<p align="right">Note: The site is not responsive yet, but it will be responsive soon.</p>
-
